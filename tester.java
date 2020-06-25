@@ -13,7 +13,8 @@ public class tester
 		Arrays.sort(arr); 
 
 		System.out.printf("Modified arr[] : %s", 
-						Arrays.toString(arr)); 
+						Arrays.toString(arr));
+		System.out.printf("hello"); 
 	} 
 } 
 
